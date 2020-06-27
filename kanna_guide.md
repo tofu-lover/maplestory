@@ -6,14 +6,14 @@ Upon reaching 200 don't worry about meso gear, you want to hit 220 asap so damag
 VJ range: 2m\
 ChuChu range: 3m\
 Lach range: 3-6m\
-Arcana range: 6.3m\
+Arcana range: 6.3m
 
 Upon reaching 220 get 100% total meso on your accessories, 10-20% meso on your inner ability. Then get 60% drop ASAP as it will increase your meso bag drop rate.
 Rates (Based off TheRealFarm)
 
 FES2 - 50-60m per hour on 0% meso -2shotting\
 Raging Erdas 60-80m per hour on 0% meso -2shotting\
-Slurpee Depths 100m per hour on 0% meso -2shotting\
+Slurpee Depths 100m per hour on 0% meso -2shotting
 
 DWT Upper Stem is amazing for 220-230 if you lack the damage for lach. Use a wealth pot with 40% drop for 100% bag drop rate; required range: 2.3m and maxed Shinigami Haunting (level 60 in your V matrix) for one shotting. Domain should one shot with 3m range and Kishin will 2 shot with that same range.
 -Rates for DWT:US = 400m/hour with wealth pot and 115% meso; a little more with 120%.
@@ -24,7 +24,7 @@ Good maps:
 CFES1 - 380-400m per hour with 3m range clean.\
 Outlaw 3 - 350m per hour with 3m range clean. [500m per hour with 5.2m range. Domain, Kishin, Exorcist, Tengu and Boss 1 shot]\
 Occupied Dance Floor 1 - 350m per hour with 3m range clean. [480m per hour with 5.2m range. Domain, Kishin, Exorcist, Tengu and Boss 1 shot]\
-REV3 - 350m per hour with 3m range clean.\
+REV3 - 350m per hour with 3m range clean.
 
 Once your domain one hits and kishin 2-shots your rates will increase. Above rates are based on 115% meso, 60% drop, WEALTH POT, 2shot domain, 3 shot kishin, 1 shot shinigami.
 
