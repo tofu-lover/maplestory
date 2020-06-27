@@ -27,13 +27,12 @@ REV3 - 350m per hour with 3m range clean.
 
 Once your domain one hits and kishen 2 shots your rates will increase. Above rates are based on 115% meso, 60% drop, WEALTH POT, 2shot domain, 3 shot kishen, 1 shot shinigami.
 
-## Arcana:
+### Arcana:
 DCUP2 - 500m-550m per hour with wealth pot. 6.3m range buffed, maxed tengu strike, lvl 17 Domain, maxed Demon Boss. @level 233
    -note: You will not be one shotting with Kishin, Boss or Domain until you reach the level of the mobs due to damage reduction. Once your boss and domain 1shot your rates will improve. Kishin one shots at around 9-10m range probably.
 DCUP1 - 550m per hour with wealth pot.
 
 ## THEREALFARM
-*
 Method to making kanna, major notes:
 
 1. Make a Kanna during a Ring event so you can get x4 pottable rings
@@ -44,7 +43,7 @@ Method to making kanna, major notes:
 6. KEEP your pensalir gear you loot, you MUST extract it via alchemy in order to get philosopher stones and advanced crystals for WEALTH POTS. Also you can NPC the philosopher stones for 300k a pop if you need extra meso.
 7. Get 3 Pets and get all the movement expansion skills for them. This will cost around 30-35k nx; well worth it in the long run.
 
-NODES:
+### NODES:
 1. Optional trio: KISHIN, SHINIGAMI HAUNTING, BOSS
 2. Tengu Strike, Exorcist charm, whatever
 -remember that every level you get 1 point to enhance a V MATRIX skill box, abuse this to level up your skills early.
