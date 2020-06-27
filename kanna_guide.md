@@ -20,7 +20,7 @@ DWT Upper Stem is amazing for 220-230 if you lack the damage for lach. Use a wea
 
 For Lach you want 12 star everything and possibly 15 star Fan; Then prioritize meso gear 100%, and drop 60% at least. To one shot mobs you will need max nodes in Shinigami haunting and around 13-14k stat.
 
-Good maps:
+Good maps:\
 CFES1 - 380-400m per hour with 3m range clean.\
 Outlaw 3 - 350m per hour with 3m range clean. [500m per hour with 5.2m range. Domain, Kishin, Exorcist, Tengu and Boss 1 shot]\
 Occupied Dance Floor 1 - 350m per hour with 3m range clean. [480m per hour with 5.2m range. Domain, Kishin, Exorcist, Tengu and Boss 1 shot]\
